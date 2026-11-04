@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Build / distribuição
+build/
+dist/
+*.spec
+
+# Downloads e arquivos locais
+downloads/
+*.mp3
+*.m4a
+*.wav
+*.opus
+*.flac
+*.mp4
+*.mkv
+*.webm
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
